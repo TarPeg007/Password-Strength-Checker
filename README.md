@@ -1,5 +1,8 @@
 # Password Strength Checker (C & Ncurses)
 
+
+
+![Video Title](/Screen%20Recording%202025-01-03%20at%209.47.29%20PM.mov)
 A **Password Strength Checker** implemented in the **C programming language**, featuring a **text-based GUI** using the **Ncurses library**. This program evaluates the strength of a user-provided password and provides constructive feedback to improve it.
 
 ---
