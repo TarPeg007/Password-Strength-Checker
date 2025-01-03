@@ -123,7 +123,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: HAHAHAHAHHAHAHAHAHA
-- **GitHub**: [TarPeg0](https://github.com/TarPeg007)
+- **GitHub**: [TarPeg007](https://github.com/TarPeg007)
 
 ---
 
