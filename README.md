@@ -2,7 +2,8 @@
 
 
 
-![Password Strength Checker Demo](https://github.com/TarPeg007/Password-Strength-Checker/blob/main/assets/Screen%20Recording%202025-01-03%20at%209.47.29%20PM.mp4?raw=true)
+[![Password Strength Checker Demo](https://img.youtube.com/vi/Ix1vQbRydbk/0.jpg)](https://youtu.be/Ix1vQbRydbk)
+
 A **Password Strength Checker** implemented in the **C programming language**, featuring a **text-based GUI** using the **Ncurses library**. This program evaluates the strength of a user-provided password and provides constructive feedback to improve it.
 
 ---
